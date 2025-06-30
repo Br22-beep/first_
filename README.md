@@ -1,4 +1,5 @@
 Today I Learned! 🌟
+
 A fun and interactive web app to share, explore, and vote on interesting facts across multiple categories. Perfect for curious minds who love to learn something new every day!
 
 🚀 Features
