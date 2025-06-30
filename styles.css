@@ -179,6 +179,11 @@ ul {
   background-image: none;
 }
 
+.btn.active {
+  box-shadow: 0 0 10px #fff;
+  transform: scale(1.1);
+}
+
 .fact-form input,
 .fact-form select {
   background-color: #78716c;
